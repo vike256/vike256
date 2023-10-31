@@ -1,4 +1,4 @@
-Patreon: https://www.patreon.com/vike256  
+Patreon: https://patreon.com/vike256  
 
 BTC: bc1q39wcjfja6y8kac0daca2mn7k0gmenqyasywyt3
 
