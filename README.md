@@ -1,4 +1,4 @@
-# Ways to support me and my open-source projects
+### Ways to support me and my open-source projects
 
 - Patreon: https://patreon.com/vike256  
 
