@@ -1,6 +1,6 @@
 ### Ways to support me and my open-source projects
 
-- Patreon: https://patreon.com/vike256  
+- Patreon: [vike256](https://patreon.com/vike256)  
 
 - BTC: `bc1q39wcjfja6y8kac0daca2mn7k0gmenqyasywyt3`
 
