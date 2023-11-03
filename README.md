@@ -9,6 +9,8 @@
 
 ### Donations
 
+- Ko-fi: [vike256](https://ko-fi.com/vike256)
+
 - BuyMeACoffee: [vike](https://www.buymeacoffee.com/vike)
 
 - Patreon: [vike256](https://patreon.com/vike256)  
