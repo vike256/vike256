@@ -11,8 +11,8 @@
 
 - Ko-fi (Preferred, no fees): [vike256](https://ko-fi.com/vike256)
 
-- BuyMeACoffee (Payment fee): [vike](https://www.buymeacoffee.com/vike)
+- BuyMeACoffee: [vike](https://www.buymeacoffee.com/vike)
 
-- Patreon (8 % + payment fee): [vike256](https://patreon.com/vike256)  
+- Patreon: [vike256](https://patreon.com/vike256)  
 
 - Crypto: [Addresses](crypto.md)
