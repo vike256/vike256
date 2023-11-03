@@ -13,6 +13,6 @@
 
 - Ko-fi: [vike256](https://ko-fi.com/vike256)
 
-- Other platforms (Patreon, BuyMeACoffee): [Other](other.md)
+- Other platforms (Patreon, BuyMeACoffee): [Links](other.md)
 
 - Crypto: [Addresses](crypto.md)
