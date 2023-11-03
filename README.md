@@ -14,8 +14,6 @@
 - Ko-fi (Preferred, no fees)  
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)
 
-- BuyMeACoffee: [vike](https://www.buymeacoffee.com/vike)
-
-- Patreon: [vike256](https://patreon.com/vike256)
+- Other platforms: [Links](other.md)
 
 - Crypto: [Addresses](crypto.md)
