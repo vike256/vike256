@@ -3,7 +3,7 @@
 <a href="https://github.com/vike256?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vike256?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://discord.gg/uF2KESAU2J" target="_blank" rel="noreferrer">
- <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+ <img src="https://custom-icon-badges.herokuapp.com/badge/-Discord-7289DA?style=for-the-badge&logoColor=white&logo=outline-discord" /></a>
 
 ### Tech
 
