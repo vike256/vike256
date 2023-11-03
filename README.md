@@ -11,10 +11,8 @@
 
 ### Donations
 
-- Ko-fi (Preferred, no fees): [vike256](https://ko-fi.com/vike256)
+- Ko-fi: [vike256](https://ko-fi.com/vike256)
 
-- BuyMeACoffee: [vike](https://www.buymeacoffee.com/vike)
-
-- Patreon: [vike256](https://patreon.com/vike256)  
+- Other platforms (Patreon, BuyMeACoffee): [Other](other.md)
 
 - Crypto: [Addresses](crypto.md)
