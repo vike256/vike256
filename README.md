@@ -11,7 +11,7 @@
 
 ### Donations
 
-- Ko-fi: [vike256](https://ko-fi.com/vike256)
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)
 
 - Other platforms (Patreon, BuyMeACoffee): [Links](other.md)
 
