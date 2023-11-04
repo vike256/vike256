@@ -11,8 +11,6 @@
 
 ### Donations
 
-🎁 Monthly members get exclusive access to some Discord channels. Just a chatroom for now but more benefits are coming soon.
-
 - Ko-fi (Preferred, no fees)  
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)
 
