@@ -5,6 +5,10 @@
   
 [![](https://dcbadge.vercel.app/api/server/uF2KESAU2J)](https://discord.gg/uF2KESAU2J)  
 
+### whoami
+A student who codes stuff sometimes.  
+All my projects are free and open-source so [donations](#donations) are very much appreciated!  
+
 ### Tech
 
 <img src="https://skillicons.dev/icons?i=python,c,git,linux" />
