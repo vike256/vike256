@@ -15,12 +15,6 @@ All my projects are free and open-source so [donations](#donations) are very muc
 
 #
 
-### Tech
-
-<img src="https://skillicons.dev/icons?i=python,c,git,linux" />
-
-#
-
 ### Donations
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)  
