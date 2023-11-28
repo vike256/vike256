@@ -11,7 +11,7 @@ All my projects are free and open-source so [donations](#donations) are very muc
 <a href="https://www.youtube.com/channel/UCOnAWavsKhS3QRWa2vE-ZpQ">
    <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCOnAWavsKhS3QRWa2vE-ZpQ?color=%23E05D44&label=YOUTUBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
 
-[![](https://dcbadge.vercel.app/api/server/uF2KESAU2J)](https://discord.gg/uF2KESAU2J)
+[![Discord](https://discordapp.com/api/guilds/1165759799410053140/widget.png?style=banner2)](https://discord.gg/uF2KESAU2J)  
 
 #
 
