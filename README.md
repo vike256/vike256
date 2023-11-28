@@ -17,7 +17,9 @@ All my projects are free and open-source so [donations](#donations) are very muc
 
 ### Donations
 
-Donation methods and more on my Discord server's #donate channel. Please DM me if you have any questions.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)  
+
+Please DM me in Discord if you have any questions.
 
 Crypto: [Addresses](crypto.md)  
-
+Send me a [gift card](giftcards.md)
