@@ -16,8 +16,6 @@ All my projects are free and open-source so [donations](#donations) are very muc
 #
 
 ### Donations
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)  
  
 Crypto: [Addresses](crypto.md)  
   
