@@ -16,9 +16,8 @@ All my projects are free and open-source so [donations](#donations) are very muc
 #
 
 ### Donations
- 
+
+Donation methods and more on my Discord server's #donate channel. Please DM me if you have any questions.
+
 Crypto: [Addresses](crypto.md)  
-  
-You can also donate gift cards through my Discord direct messages.  
-  
-Thank you all for the support :)
+
