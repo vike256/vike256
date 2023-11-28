@@ -19,5 +19,5 @@ All my projects are free and open-source so [donations](#donations) are very muc
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1QSHTP)  
 
-Crypto: [Addresses](crypto.md)  
-Send me a [gift card](giftcards.md)  
+[Crypto addresses](crypto.md)  
+[Send me a gift card](giftcards.md)  
