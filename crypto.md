@@ -1,3 +1,5 @@
+Crypto is a great way to accept donations since the fees are very low. DM me in Discord if you have any questions or would like to pay in a crypto currency not listed here.
+
 BTC: `bc1q39wcjfja6y8kac0daca2mn7k0gmenqyasywyt3`  
 
 ETH: `0x26e05D05CcC684b8ebEB220C3a70D0Fca50f7FBC`  
