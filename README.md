@@ -1,5 +1,7 @@
 ### Donations
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A5XSDZ8)  
+
 BTC: `bc1q39wcjfja6y8kac0daca2mn7k0gmenqyasywyt3`  
 ETH: `0x26e05D05CcC684b8ebEB220C3a70D0Fca50f7FBC`  
 LTC: `LasacHa5RoHtvMDi1iMdMBVwtV9j4PedLY`  
